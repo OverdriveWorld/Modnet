@@ -1,5 +1,5 @@
 {
-  "built_at": "2021-11-19T13:40:31.6317094-07:00",
+  "built_at": "2021-11-19T15:37:29.1199109-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -38,8 +38,8 @@
     },
     {
       "Name": "Languages.mods",
-      "Checksum": "783cb7bc59ce2f21335f3c567a5d1c0778350c30",
-      "Size": 1324847
+      "Checksum": "64a30441c9c4643801124783410bb87d499d44ed",
+      "Size": 1323684
     },
     {
       "Name": "scripts.mods",
