@@ -1,5 +1,5 @@
 {
-  "built_at": "2022-02-20T20:52:14.0468324-07:00",
+  "built_at": "2022-02-21T16:24:26.5007377-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -83,8 +83,8 @@
     },
     {
       "Name": "Spoilers.mods",
-      "Checksum": "6be7e19ba6c79a91b69554a94a5f2f8eca2d905f",
-      "Size": 1141388
+      "Checksum": "f305c96a65c7e32e8fe7c40c244bd8d0e23c5cb9",
+      "Size": 1141609
     }
   ]
 }
