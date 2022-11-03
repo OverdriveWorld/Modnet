@@ -1,5 +1,5 @@
 {
-  "built_at": "2022-11-03T00:32:22.091234-07:00",
+  "built_at": "2022-11-03T00:36:30.2634653-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -93,8 +93,13 @@
     },
     {
       "Name": "Sound07.mods",
-      "Checksum": "5dc70071737a712021d2ed6e627ea07a69803bac",
-      "Size": 138002978
+      "Checksum": "7423e02259d6b0e1893f5843496a8a520a712aeb",
+      "Size": 78595725
+    },
+    {
+      "Name": "Sound08.mods",
+      "Checksum": "56c5701e20a5cf02cb1f11a5ed5426ae625fc0c5",
+      "Size": 59407659
     },
     {
       "Name": "Extras.mods",
