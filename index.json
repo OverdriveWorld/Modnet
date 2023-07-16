@@ -1,5 +1,5 @@
 {
-  "built_at": "2023-07-15T12:15:21.0952271-07:00",
+  "built_at": "2023-07-16T11:36:08.0857503-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -58,8 +58,8 @@
     },
     {
       "Name": "scripts.mods",
-      "Checksum": "d5b686d6405553dff2e58346b7459947f40caf31",
-      "Size": 26636
+      "Checksum": "fa7a006d8086972cd627db60771f4fae2f4d4f87",
+      "Size": 18266
     },
     {
       "Name": "Sound.mods",
