@@ -1,5 +1,5 @@
 {
-  "built_at": "2023-09-05T14:15:50.0240593-07:00",
+  "built_at": "2023-09-05T15:23:52.3791306-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -53,8 +53,8 @@
     },
     {
       "Name": "GFX.mods",
-      "Checksum": "748f0c0ecb59b9bf50c2710dbbe17670df9627dd",
-      "Size": 22909305
+      "Checksum": "952d6abf7fe9470c97cdc15028ff3fa98b3b570e",
+      "Size": 22907615
     },
     {
       "Name": "Languages.mods",
@@ -63,8 +63,8 @@
     },
     {
       "Name": "scripts.mods",
-      "Checksum": "ef94af000a066d9b0b203e047d9cf48c985b99ec",
-      "Size": 609661
+      "Checksum": "ff140834a2dafd3ddd75af131f9cd88acc96b9f6",
+      "Size": 600758
     },
     {
       "Name": "Sound.mods",
