@@ -1,5 +1,5 @@
 {
-  "built_at": "2024-04-22T16:41:47.0451075-07:00",
+  "built_at": "2024-04-30T19:12:52.5611986-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -8,8 +8,8 @@
     },
     {
       "Name": "Attributes02.mods",
-      "Checksum": "cbe2a1c5e50b05335cb59672bc1b44bd2b0cdc4c",
-      "Size": 3048102
+      "Checksum": "5f9ec509670659b280e88c40ae040b064ef68133",
+      "Size": 3048103
     },
     {
       "Name": "Cars.mods",
@@ -55,6 +55,11 @@
       "Name": "Cars07.mods",
       "Checksum": "cdb16faa71def8d60289cf988f982b30dd95d9d6",
       "Size": 9207477
+    },
+    {
+      "Name": "Cars08.mods",
+      "Checksum": "fa5369a525b7ebffa45d984410597c3794fae16b",
+      "Size": 4033
     },
     {
       "Name": "GFX.mods",
@@ -128,8 +133,8 @@
     },
     {
       "Name": "Extras.mods",
-      "Checksum": "150044c4501671962d2ea30ea7fdb44b9e920d88",
-      "Size": 2381009
+      "Checksum": "1adea0e3ea78130c2544efdffc0616ed899cdbbc",
+      "Size": 2386565
     },
     {
       "Name": "Extras2.mods",
