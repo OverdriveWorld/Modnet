@@ -1,5 +1,5 @@
 {
-  "built_at": "2024-05-02T19:05:57.5955084-07:00",
+  "built_at": "2024-05-02T19:52:52.9532733-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -143,8 +143,8 @@
     },
     {
       "Name": "Vinyls.mods",
-      "Checksum": "113721a1895ac12eba83836180003d1049a1a0a9",
-      "Size": 114867
+      "Checksum": "972895f1318466ff8554c40009e013341a5a6afc",
+      "Size": 7897
     }
   ]
 }
