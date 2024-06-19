@@ -1,5 +1,5 @@
 {
-  "built_at": "2024-06-19T15:42:30.6250781-07:00",
+  "built_at": "2024-06-19T16:54:53.3755251-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -58,8 +58,8 @@
     },
     {
       "Name": "GFX.mods",
-      "Checksum": "bbad4396955d67ca925e741aefa3c6815bb3d4f0",
-      "Size": 26645268
+      "Checksum": "5d66e2d228366600a2d8d45a2d0aeddb3eafa920",
+      "Size": 26895347
     },
     {
       "Name": "Languages.mods",
