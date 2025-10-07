@@ -1,5 +1,5 @@
 {
-  "built_at": "2025-10-07T12:21:55.0309264-07:00",
+  "built_at": "2025-10-07T12:33:27.0730583-07:00",
   "entries": [
     {
       "Name": "Attributes.mods",
@@ -163,8 +163,8 @@
     },
     {
       "Name": "Extras.mods",
-      "Checksum": "ca694f717b45143cd28e088474e6b4ecc514fcff",
-      "Size": 2660919
+      "Checksum": "17e0940d17da5e82483e81160fe66fa2af312c4d",
+      "Size": 2658778
     },
     {
       "Name": "Extras2.mods",
